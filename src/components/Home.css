@@ -1,0 +1,11 @@
+
+.navbar {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .navbar li {
+    margin-right: 50px;
+    margin-left: 50px;
+  }
+  
