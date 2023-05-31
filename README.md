@@ -1,70 +1,13 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+I have used HTML,CSS and JavaScript library to create this project.
+The HTML and CSS has been used to add structire and design to the Web Pages.
+The Order of Pages is as 
+1)Login Page<img width="960" alt="index page" src="https://github.com/Aashish2109/xenonstack/assets/99539876/5889c711-90e8-44c0-867b-dd2683e98d61">
+2)Home Page<img width="950" alt="img1" src="https://github.com/Aashish2109/xenonstack/assets/99539876/656a8ae3-d4e3-47d2-9f02-92642c8852e7">
+<img width="949" alt="img 2" src="https://github.com/Aashish2109/xenonstack/assets/99539876/dd1132bf-645d-4a3a-9e59-fcd49cd7097d">
+<img width="947" alt="img3" src="https://github.com/Aashish2109/xenonstack/assets/99539876/a751e586-b083-430f-8d4c-bd8f5279b86a">
+<img width="950" alt="img4" src="https://github.com/Aashish2109/xenonstack/assets/99539876/916942eb-3b61-4f71-9902-2eca60f982dc">
+<img width="945" alt="img5" src="https://github.com/Aashish2109/xenonstack/assets/99539876/d4ffc8d9-d47a-4ba2-90a7-93888bbebebd">
+<img width="949" alt="img6" src="https://github.com/Aashish2109/xenonstack/assets/99539876/26442f32-598a-49b5-9abc-e0df10e2ec61">
+3)If is is not registered then he/she has to fill the following form<img width="959" alt="Registration Form" src="https://github.com/Aashish2109/xenonstack/assets/99539876/9b7fee89-f191-4f91-956c-64b988cdde16">
+The details of the user will be saved in the  XAMPP <img width="958" alt="xampp database" src="https://github.com/Aashish2109/xenonstack/assets/99539876/300ca8a1-c775-4c35-8cc7-c41b366e0aee">
+database 
